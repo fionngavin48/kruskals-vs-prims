@@ -25,6 +25,7 @@ Ensure you have Python installed along with the required dependencies:
 Clone the repository:
 
 git clone https://github.com/fionngavin48/kruskals-vs-prims.git
+
 cd kruskals-vs-prims
 
 Run the Python script:
