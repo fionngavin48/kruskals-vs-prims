@@ -36,7 +36,3 @@ python main.py
 
 Kruskal's Algorithm Time: 0.000120 seconds
 Prim's Algorithm Time: 0.000150 seconds
-
-Author
-
-[Fionn Gavin] - [fionngavin48]
